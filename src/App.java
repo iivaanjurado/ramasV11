@@ -4,5 +4,6 @@ public class App {
         System.out.println("develop->develop");
         System.out.println("develop->develop");
         System.out.println("develop->develop");
+        System.out.println("develop->release");
     }
 }
