@@ -4,10 +4,7 @@ public class App {
         System.out.println("develop->develop");
         System.out.println("develop->develop");
         System.out.println("develop->develop");
-<<<<<<< HEAD
         System.out.println("develop->release");
-=======
-        System.out.println("develop->develop");
->>>>>>> develop
+        System.out.println("release->release");
     }
 }
